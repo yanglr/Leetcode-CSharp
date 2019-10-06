@@ -1,0 +1,12 @@
+D:\Coding\csLeetcode\leetcode38\leetcode38\obj\Debug\netcoreapp3.0\leetcode38.csprojAssemblyReference.cache
+D:\Coding\csLeetcode\leetcode38\leetcode38\obj\Debug\netcoreapp3.0\leetcode38.csproj.CoreCompileInputs.cache
+D:\Coding\csLeetcode\leetcode38\leetcode38\obj\Debug\netcoreapp3.0\leetcode38.AssemblyInfoInputs.cache
+D:\Coding\csLeetcode\leetcode38\leetcode38\obj\Debug\netcoreapp3.0\leetcode38.AssemblyInfo.cs
+D:\Coding\csLeetcode\leetcode38\leetcode38\bin\Debug\netcoreapp3.0\leetcode38.exe
+D:\Coding\csLeetcode\leetcode38\leetcode38\bin\Debug\netcoreapp3.0\leetcode38.deps.json
+D:\Coding\csLeetcode\leetcode38\leetcode38\bin\Debug\netcoreapp3.0\leetcode38.runtimeconfig.json
+D:\Coding\csLeetcode\leetcode38\leetcode38\bin\Debug\netcoreapp3.0\leetcode38.runtimeconfig.dev.json
+D:\Coding\csLeetcode\leetcode38\leetcode38\bin\Debug\netcoreapp3.0\leetcode38.dll
+D:\Coding\csLeetcode\leetcode38\leetcode38\bin\Debug\netcoreapp3.0\leetcode38.pdb
+D:\Coding\csLeetcode\leetcode38\leetcode38\obj\Debug\netcoreapp3.0\leetcode38.dll
+D:\Coding\csLeetcode\leetcode38\leetcode38\obj\Debug\netcoreapp3.0\leetcode38.pdb

@@ -1,0 +1,12 @@
+D:\Coding\csLeetcode\leetcode136\leetcode136\bin\Debug\netcoreapp3.0\leetcode136.exe
+D:\Coding\csLeetcode\leetcode136\leetcode136\bin\Debug\netcoreapp3.0\leetcode136.deps.json
+D:\Coding\csLeetcode\leetcode136\leetcode136\bin\Debug\netcoreapp3.0\leetcode136.runtimeconfig.json
+D:\Coding\csLeetcode\leetcode136\leetcode136\bin\Debug\netcoreapp3.0\leetcode136.runtimeconfig.dev.json
+D:\Coding\csLeetcode\leetcode136\leetcode136\bin\Debug\netcoreapp3.0\leetcode136.dll
+D:\Coding\csLeetcode\leetcode136\leetcode136\bin\Debug\netcoreapp3.0\leetcode136.pdb
+D:\Coding\csLeetcode\leetcode136\leetcode136\obj\Debug\netcoreapp3.0\leetcode136.csprojAssemblyReference.cache
+D:\Coding\csLeetcode\leetcode136\leetcode136\obj\Debug\netcoreapp3.0\leetcode136.csproj.CoreCompileInputs.cache
+D:\Coding\csLeetcode\leetcode136\leetcode136\obj\Debug\netcoreapp3.0\leetcode136.AssemblyInfoInputs.cache
+D:\Coding\csLeetcode\leetcode136\leetcode136\obj\Debug\netcoreapp3.0\leetcode136.AssemblyInfo.cs
+D:\Coding\csLeetcode\leetcode136\leetcode136\obj\Debug\netcoreapp3.0\leetcode136.dll
+D:\Coding\csLeetcode\leetcode136\leetcode136\obj\Debug\netcoreapp3.0\leetcode136.pdb
