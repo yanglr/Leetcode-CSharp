@@ -1,0 +1,12 @@
+D:\Coding\csLeetcode\leetcode728\leetcode728\bin\Debug\netcoreapp3.0\leetcode728.exe
+D:\Coding\csLeetcode\leetcode728\leetcode728\bin\Debug\netcoreapp3.0\leetcode728.deps.json
+D:\Coding\csLeetcode\leetcode728\leetcode728\bin\Debug\netcoreapp3.0\leetcode728.runtimeconfig.json
+D:\Coding\csLeetcode\leetcode728\leetcode728\bin\Debug\netcoreapp3.0\leetcode728.runtimeconfig.dev.json
+D:\Coding\csLeetcode\leetcode728\leetcode728\bin\Debug\netcoreapp3.0\leetcode728.dll
+D:\Coding\csLeetcode\leetcode728\leetcode728\bin\Debug\netcoreapp3.0\leetcode728.pdb
+D:\Coding\csLeetcode\leetcode728\leetcode728\obj\Debug\netcoreapp3.0\leetcode728.csprojAssemblyReference.cache
+D:\Coding\csLeetcode\leetcode728\leetcode728\obj\Debug\netcoreapp3.0\leetcode728.csproj.CoreCompileInputs.cache
+D:\Coding\csLeetcode\leetcode728\leetcode728\obj\Debug\netcoreapp3.0\leetcode728.AssemblyInfoInputs.cache
+D:\Coding\csLeetcode\leetcode728\leetcode728\obj\Debug\netcoreapp3.0\leetcode728.AssemblyInfo.cs
+D:\Coding\csLeetcode\leetcode728\leetcode728\obj\Debug\netcoreapp3.0\leetcode728.dll
+D:\Coding\csLeetcode\leetcode728\leetcode728\obj\Debug\netcoreapp3.0\leetcode728.pdb
