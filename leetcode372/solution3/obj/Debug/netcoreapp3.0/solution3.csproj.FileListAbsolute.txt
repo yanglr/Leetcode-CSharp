@@ -1,0 +1,12 @@
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\bin\Debug\netcoreapp3.0\solution3.exe
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\bin\Debug\netcoreapp3.0\solution3.deps.json
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\bin\Debug\netcoreapp3.0\solution3.runtimeconfig.json
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\bin\Debug\netcoreapp3.0\solution3.runtimeconfig.dev.json
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\bin\Debug\netcoreapp3.0\solution3.dll
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\bin\Debug\netcoreapp3.0\solution3.pdb
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\obj\Debug\netcoreapp3.0\solution3.csprojAssemblyReference.cache
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\obj\Debug\netcoreapp3.0\solution3.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\obj\Debug\netcoreapp3.0\solution3.AssemblyInfoInputs.cache
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\obj\Debug\netcoreapp3.0\solution3.AssemblyInfo.cs
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\obj\Debug\netcoreapp3.0\solution3.dll
+C:\Users\Bruce\source\repos\leetcode372-SuperPow\solution3\obj\Debug\netcoreapp3.0\solution3.pdb
